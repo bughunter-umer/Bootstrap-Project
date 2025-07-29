@@ -72,7 +72,8 @@ CDNs are included in the HTML for easy setup.
 > Add screenshots or a demo GIF here to showcase your UI
 > *Example:*
 
-![screenshot](assets/images/demo-screenshot.png)
+![screenshot](images/demo-screenshot.png)
+![screenshot](images/demo-screenshot-1.png)
 
 ---
 
